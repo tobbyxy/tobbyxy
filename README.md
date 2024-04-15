@@ -1,8 +1,6 @@
-- 👋 Hi, I’m tobi
-- 👀 I’m interested in bioinformatics and machine learning
-- 🌱 I’m currently learning convolutional neural networks and single cell analysis
-- 💞️ I’m looking to collaborate on machine learning projects
-- 📫 How to reach me Twitter @tobby_xy
+<h1 align="left">Hi, I'm Tobi Aminu 👋</h1> 
+My work focuses on the interesection between Computer science, statistics and Biology. I'm currently working with single cell dataset.
+
 
 <!---
 tobbyxy/tobbyxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
